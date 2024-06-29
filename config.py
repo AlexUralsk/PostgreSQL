@@ -1,0 +1,5 @@
+host  = 'rc1b-cpsjckr2wfkuk61s.mdb.yandexcloud.net'
+port = '6432'
+db_name = 'Northwind'
+user ='student'
+password = '123456sql@'
